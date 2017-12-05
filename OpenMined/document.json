@@ -82,6 +82,102 @@
       }
     ],
     "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0.5}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.4784313725490196,
+              "green": 0.7490196078431373,
+              "red": 0.9450980392156862
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.4235294117647059,
+              "green": 0.596078431372549,
+              "red": 0.9294117647058824
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 0.5}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0.5}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.6431372549019609,
+              "green": 0.7098039215686275,
+              "red": 0.3607843137254902
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.6039215686274509,
+              "green": 0.8,
+              "red": 0.607843137254902
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 0.5}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0.5}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.419607843137255,
+              "green": 0.6000000000000001,
+              "red": 0.9372549019607843
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.4862745098039215,
+              "green": 0.4392156862745097,
+              "red": 0.7647058823529411
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 0.5}"
+      }
     ],
     "imageCollection": {
       "_class": "imageCollection",

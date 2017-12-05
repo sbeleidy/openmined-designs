@@ -1,0 +1,96 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "039220B2-B7AA-469A-8301-114D6AE58120",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 410,
+    "x": 217,
+    "y": -165
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E934543A-5BE0-4195-9C9E-460516143414"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0460BB9-F79A-4520-8219-8E99E944165B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "36221071-6E23-4DDB-83A5-73FA3ADDD109"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D43E4D63-1229-4179-BE0C-34638572CBEB"
+    },
+    {
+      "class": "text",
+      "id": "99524175-DBF6-445C-B27E-C9D13295D7EB"
+    },
+    {
+      "class": "text",
+      "id": "F3BF77D1-533E-482D-9C2F-E5822D4FE183"
+    },
+    {
+      "class": "text",
+      "id": "379A5B23-F4A5-4C26-B8A4-3B668C781071"
+    },
+    {
+      "class": "text",
+      "id": "9B5DF860-301F-407D-93A3-72F7F4D821C2"
+    }
+  ],
+  "name": "Gradients",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
